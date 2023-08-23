@@ -1,4 +1,4 @@
-package node2gongdoc
+package maticons
 
 type ButtonType string
 
